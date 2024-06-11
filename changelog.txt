@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.2.03
+Date: 2024-06-11
+  Major Features:
+    - First public release.
+    - I am are aware of the 10k of Warnings about Prototypes in the log file when run in vscode with fmtk. This only happens when run in debug mode. It's on my list to fix, but suspect it's out of my control.
+---------------------------------------------------------------------------------------------------
+Version: 0.2.01
+Date: 2024-06-04
+  Major Features:
+    - Start of project. Using 0.2.01 to stay in sync with IB-Groups and IB-Groups-SeaBlock

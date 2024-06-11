@@ -1,0 +1,24 @@
+These came in from en.cfg , but aren't in Nullius proper, so not part of this stage
+
+"underground-cross-pipe";4;"item";"adv-fluid-handling-group-1";;
+"underground-i-pipe";4;"item";"adv-fluid-handling-group-1";;
+"underground-i-t2-pipe";2;"item";"adv-fluid-handling-group-1";;
+"underground-i-t3-pipe";3;"item";"adv-fluid-handling-group-1";;
+"underground-L-pipe";4;"item";"adv-fluid-handling-group-1";;
+"underground-L-t2-pipe";2;"item";"adv-fluid-handling-group-1";;
+"underground-L-t3-pipe";3;"item";"adv-fluid-handling-group-1";;
+"underground-mini-pump";"P";"item";"adv-fluid-handling-group-1";;
+"underground-t-pipe";4;"item";"adv-fluid-handling-group-1";;
+"underground-t-t2-pipe";2;"item";"adv-fluid-handling-group-1";;
+"underground-t-t3-pipe";3;"item";"adv-fluid-handling-group-1";;
+"nullius-underground-pump";"xx";"item";"adv-fluid-handling-group-1";;
+"one-to-four-pipe";4;"item";"adv-fluid-handling-group-1";;
+"one-to-one-forward-pipe";4;"item";"adv-fluid-handling-group-1";;
+"one-to-one-forward-t2-pipe";2;"item";"adv-fluid-handling-group-1";;
+"one-to-one-forward-t3-pipe";3;"item";"adv-fluid-handling-group-1";;
+"one-to-three-forward-pipe";4;"item";"adv-fluid-handling-group-1";;
+"one-to-three-forward-t2-pipe";2;"item";"adv-fluid-handling-group-1";;
+"one-to-three-forward-t3-pipe";3;"item";"adv-fluid-handling-group-1";;
+"one-to-two-perpendicular-pipe";4;"item";"adv-fluid-handling-group-1";;
+"one-to-two-perpendicular-t2-pipe";2;"item";"adv-fluid-handling-group-1";;
+"one-to-two-perpendicular-t3-pipe";3;"item";"adv-fluid-handling-group-1";;
